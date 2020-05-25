@@ -1,0 +1,1 @@
+# Simulador_de_alocacao_de_memoria_em_particoes_variaveis
